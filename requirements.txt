@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+pyzotero==1.5.18
+PyPDF2==3.0.1
+requests==2.31.0
+typing-extensions==4.8.0 
