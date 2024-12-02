@@ -34,7 +34,7 @@ zotero-paper-summarizer/
 
 1. 克隆项目
 ```bash
-git clone [项目地址]
+git clone git@github.com:gudo7208/zotero-paper-summarizer.git
 cd zotero-paper-summarizer
 ```
 
